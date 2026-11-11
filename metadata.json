@@ -1,0 +1,6 @@
+{
+  "name": "KombinAI - Akıllı Kombin ve Fiyat Karşılaştırma",
+  "description": "Birden çok ürün ekleyerek AI ile stil kombinasyonları oluşturan, renk ve doku uyumu analizi sunan ve parçaların fiyatlarını mağazalar arası karşılaştıran akıllı moda asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
